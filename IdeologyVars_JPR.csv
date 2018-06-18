@@ -1,0 +1,45 @@
+Group,GroupCode,Nationalism.Revisionism,Islamism.Salafism,Sectarianism,AVG.Score,Location,State.Sponsors,GroupSize,GroupSize_full,Powerbroker
+101st Infantry Division,101st,1,1,1,1,"Idlib, Aleppo, Hama",US,"2,000","2,000",NO
+13th Division,13th,1,1,1,1,"Idlib, Aleppo, Hama",US,"1,800","1,800",NO
+Ahfad al-Rasul Brigades,AARB,1,2,1,1.333333333,National,"Saudi Arabia, Qatar",9000,"7,000-9,000-10,000",NO
+Ahrar al-Sham Islamic Movement,ASIM,1.25,5,2.25,2.833333333,National,"Qatar, Saudi Arabia, Turkey",15000,"10,000-15,000-20,000",YES
+Ahrar al-Shamal Brigade,AALS,1,1,1,1,Aleppo,NA,500,,NO
+Ajnad al-Sham Islamic Union,AASG,2.67,3.67,1.33,2.556666667,"Damscus, Rif Dimashq",,"3,000","3,000",NO
+Al-Farouq Brigades,AF,1,1,1,1,"Homs, Aleppo","Saudi Arabia, Qatar, Turkey",10000,"7,000-10,000-14,000",YES
+Al-Fawj Al-Awal (1st Regiment),1st,1,2,1,1.333333333,"Aleppo, Hama",US,900,"500-900-1,500",YES
+Al-Furqan Brigades,AFB,1,2.5,1.5,1.666666667,National,"Qatar, US","2,000","2,000",NO
+Al-Nusrah Front,ANF,4,5,5,4.666666667,National,NA,7000,"5,000-7,000-10,000",YES
+Al-Sahaba Brigades,ASB,2,3,1,2,"Damscus, Rif Dimashq",,500,,NO
+Al-Sham Legion (Faylaq al-Sham/Sham Corps),ASL,1,1,2,1.333333333,National,"Turkey, Qatar, US",4500,"4,000-4,500-5,000",YES
+Al-Tawhid Brigade (Liwa al-Tawhid),ATB,2,3,2,2.333333333,"Aleppo, Homs, Raqqa","Qatar, Turkey",8000,"7,000-8,000-11,000",YES
+Al-Yarmuk Brigade,AYMB,1,1,1,1,Dar'a,NA,"5,000","5,000",NO
+Ansar al-Din Front,ADF,4,5,5,4.666666667,National,NA,1550,"1,400-1,550-1,800",NO
+Ansar al-Islam Grouping,AIG,3,5,1,3,"Damscus, Rif Dimashq",,8500,"8,000-9,000",YES
+Ansar al-Khilafa Brigade,AAKB,5,5,2,4,"Aleppo, Latakia, Homs",,500,,NO
+Ansar al-Sham Battalions,AASB,2,3,1,2,"Latakia, Idlib, Aleppo",,"2,500","2,500",NO
+Authenticity and Development Front,AADF,1,2,1,1.333,National,Saudi,"5,000","2,000-5,000-13,000",NO
+Dir al-Islam Battalion,DIB,1,3,1,1.666666667,"Idlib, Homs, Damscus",,500,,NO
+Dir al-Sham Brigade,DSB,3,3,1,2.33,"Damscus, Rif Dimashq",,500,,NO
+Fajr al-Sham Islamic Movement,FSIM,3,5,2,3.333,Aleppo,NA,500,,NO
+Fastaqim Kama Umirta Gathering,FKUG,1,3,1,1.666666667,"Aleppo, Idlib",US,1100,"900-1,300",NO
+Faylaq al-Rahman (Al-Rahman Corps; Al-Rahman Legion),ARC,1,3,1,1.666666667,"Rif Dimashq, Damascus","US, Jordan","6,000","2,000-6,000-7,000",YES
+Harakat Sham al-Islam (Sham al-Islam Movement),HSAL,4,5,4,4.333333333,Latakia,NA,800,800,NO
+Hazm Movement,Hazm,1,1,1,1,National,US,4000,"3,000-4,000,5,000",NO
+Ibad al-Rahman Brigade,IARB,1,2,1,1.3333,"Aleppo, Idlib",NA,500,,NO
+Islamic State,ISIL,5,5,5,5,National,NA,25000,"20,000-31,500",YES
+Jaysh al-Fath (Conquest Army),JAF,2.4,4.2,3.6,3.4,National,"Turkey, Qatar",31500,"27,000-31,500-40,000",YES
+Jaysh al-Islam (Army of Islam),JAI,1,5,3,3,National,Saudi Arabia,17000,"12,000-17,000-20,000",YES
+Jaysh al-Muhajirin wal-Ansar,JMA,4,5,5,4.667,"Aleppo, Idlib, Latakia",,750,"600-750-1,000",NO
+Jaysh al-Mujahidin (Mujahidin Army),JAM,1,2,1,1.333,Aleppo,"Turkey, Qatar, US",8500,"5,000-12,000",YES
+Jund al-Aqsa,JAA,5,5,5,5,"Hama, Idlib, Aleppo",,800,"600-800-1,000",NO
+Katibat al-Khadra (Green Battalion),GB,3,5,4,4,National,NA,500,,NO
+Kurdish Islamic Front,KIF,1,5,1,2.333333333,Aleppo,NA,1000,"Less than 1,000",NO
+Levantine Front,LF,2,3,2,2.333333333,"Aleppo, Homs, Raqqa","Qatar, Turkey",8000,"7,000-8,000-11,000",YES
+Liwa al-Haqq Brigade,LH,1,5,3,3,"Idlib, Hama",NA,"1,000","1,000",NO
+Mujahidin Shura Council,MSC,2,5,3.67,3.556666667,Deir al-Zour,NA,500,,NO
+Nur al-Din al-Zinkin Movement,NADAZM,2,2,1,1.666666667,"Aleppo, Idlib","Saudi Arabia, Turkey, US",5000,"1,500-5,000-7,000",YES
+People's Protection Units ,YPG,5,1,1,2.333333333,North Syria,US,40000,"30,000-50,000",YES
+Suqur al-Sham Brigades,SAS,1,1,1,1,"Idlib, Aleppo",NA,9000,"8,000-9,000,10,000",NO
+Syria's Martyrs Brigade / Martyrs of Syria Brigade,SMB,1,1,1,1,"Hama, Idlib, Aleppo","Saudi Arabia, US",9500,"7,000-12,000",NO
+Syrian Revolutionaries Front,SRF,1,1.5,1.5,1.333333333,"Idlib, Aleppo, Hama","Saudi Arabia, Turkey",12500,"10,000-15,000",NO
+Southern Front,SF,1,1.5,1.25,1.25,National,"Saudi Arabia, Jordan, US",35000,"30,000-38,000-40,000",YES
